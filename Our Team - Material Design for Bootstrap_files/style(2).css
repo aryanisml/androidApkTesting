@@ -1,0 +1,21 @@
+/*
+Theme Name: MDBootstrap4
+Theme URI: https://mdbootstrap.com	
+Description: MDBootstrap4
+Version: 1
+Author: MDBootstrap.com
+Author URI: https://mdbootstrap.com
+*/
+
+.shrink{
+	width: 0!important;
+	height: 0!important;
+}
+.woocommerce form .form-row.invoice-field{
+
+	padding: 0;
+	margin: 0;
+}
+label[for='billing_country']{
+	width: 100%;
+}
